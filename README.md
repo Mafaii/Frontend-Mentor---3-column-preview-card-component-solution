@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/Mafaii/Frontend-Mentor---3-column-preview-card-component-solution
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://mafaii.github.io/Frontend-Mentor---3-column-preview-card-component-solution/
 
 ## My process
 
